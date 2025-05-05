@@ -6,7 +6,7 @@ This is a silly little mod for Balatro by LocalThunk which adds 5 new jokers. To
 Dependencies: [Steammodded](https://github.com/Steamopollys/Steamodded/archive/refs/heads/main.zip) v1.0.0, [Lovely](https://github.com/ethangreen-dev/lovely-injector) >=0.6
 Is it compatible with other mods? I have no idea.
 
-This was a passion project of mine for a little bit, as I just wanted to learn how to make simple Balatro mods, I might come back and add even more friends in the future. Also shoutout to all my friends for letting me do this and supporting me in the process, all other credits will go in the credits page.
+This was a passion project of mine for a little bit, as I just wanted to learn how to make simple Balatro mods, I might come back and add even more friends in the future. Also shoutout to all my friends for letting me do this and supporting me in the process, and everybody that helped me in the [Balatro Discord](https://discord.gg/EduqYhDk).
 
 
 What does this mod add you may ask? Only the most unbalanced Jokers ever. 
@@ -14,7 +14,7 @@ What does this mod add you may ask? Only the most unbalanced Jokers ever.
 
 ## Ahren ~ Inconspicuous Egg
 
-*Triples the blind requirement earn $20 after every hand, self-destructs after the round*
+*Triples the blind requirement, you earn $20 after every hand, self-destructs after the round*
  
 I totally meant to only give 20$ when you beat the blind, but it’s kinda funnier this way
 
