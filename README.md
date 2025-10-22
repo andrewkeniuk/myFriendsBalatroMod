@@ -4,7 +4,9 @@ Mod for Balatro: Featuring some of my friends and me!
 This is a silly little mod for Balatro by LocalThunk which adds 5 new jokers. To install it, download the zipped file (myFriends.zip) and put it into your Mods folder. 
 
 Dependencies: [Steammodded](https://github.com/Steamopollys/Steamodded/archive/refs/heads/main.zip) v1.0.0, [Lovely](https://github.com/ethangreen-dev/lovely-injector) >=0.6
-Is it compatible with other mods? I have no idea.
+Is it compatible with other mods? 
+- Not with Cryptid
+- That is all I know
 
 This was a passion project of mine for a little bit, as I just wanted to learn how to make simple Balatro mods, I might come back and add even more friends in the future. Also shoutout to all my friends for letting me do this and supporting me in the process, and everybody that helped me in the [Balatro Discord](https://discord.gg/EduqYhDk).
 
